@@ -1,0 +1,5 @@
+Bridge 1 1
+Car STOL3N 0 2
+Car HIOFCR 1 2
+Ship Alicia 1 2
+Car 2ZBEACH 2 2

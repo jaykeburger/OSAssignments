@@ -1,0 +1,17 @@
+Car HIOFCR arrives at the bridge.
+Car HIOFCR goes on the bridge.
+Car STOL3N arrives at the bridge.
+Car HIOFCR leaves the bridge.
+Car STOL3N goes on the bridge.
+Car STOL3N leaves the bridge.
+Car TINYMNI arrives at the bridge.
+Car TINYMNI goes on the bridge.
+Car IAMACAR arrives at the bridge.
+Car TINYMNI leaves the bridge.
+Car IAMACAR goes on the bridge.
+Car BYOFCR arrives at the bridge.
+Car IAMACAR leaves the bridge.
+Car BYOFCR goes on the bridge.
+Car BYOFCR leaves the bridge.
+5 car(s) crossed the bridge.
+0 ships(s) went under the raised bridge.

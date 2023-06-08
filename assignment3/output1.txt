@@ -1,0 +1,17 @@
+Car STOL3N arrives at the bridge.
+Car STOL3N goes on the bridge.
+Car HIOFCR arrives at the bridge.
+Car STOL3N leaves the bridge.
+Car HIOFCR goes on the bridge.
+Ship Alicia arrives at the bridge.
+Bridge is closed to car traffic.
+Car HIOFCR leaves the bridge.
+Bridge can now be raised.
+Car 2ZBEACH arrives at the bridge.
+Ship Alicia goes under the raised bridge.
+Ship Alicia is leaving.
+Bridge can now accommodate car traffic.
+Car 2ZBEACH goes on the bridge.
+Car 2ZBEACH leaves the bridge.
+3 car(s) crossed the bridge.
+1 ships(s) went under the raised bridge.

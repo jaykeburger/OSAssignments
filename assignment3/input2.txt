@@ -1,0 +1,6 @@
+Bridge 1 1
+Car HIOFCR 0 2	
+Car STOL3N  1  1	
+Car TINYMNI 3 2	
+Car IAMACAR 1 2	
+Car BYOFCR 2 2
